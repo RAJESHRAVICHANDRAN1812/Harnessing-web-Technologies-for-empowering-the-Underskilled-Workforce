@@ -1,0 +1,17 @@
+{
+    "POST NEW JOB":"புதிய வேலையை இடுகையிடவும்",
+    "Job Title (eg. Driver, Sales Person)":"பணியின் பெயர் (எ.கா. ஓட்டுநர்)",
+    "Category (eg. Manufacturing, Construction)":"வகை (எ.கா. உற்பத்தி, கட்டுமானம்)",
+    "State":"மாநிலம்",
+    "City":"நகரம்",
+    "Location (exact location its located)":"இடம் (அது அமைந்துள்ள சரியான இடம்)",
+    "Select Salary Type":"சம்பள வகையைத் தேர்ந்தெடுக்கவும்",
+    "Fixed Salary":"நிலையான சம்பளம்",
+    "Ranged Salary":"வரம்பில் சம்பளம்",
+    "Please provide Salary Type *":"சம்பள வகையை வழங்கவும்*",
+    "Enter Fixed Salary":"நிலையான சம்பளத்தை உள்ளிடவும்",
+    "Salary From":"சம்பள ஆரம்பம்",
+    "Salary To":"வரை",
+    "Job Description":"வேலை விவரம்",
+    "Post Job":"வேலையை இடுகையிடவும்"
+}

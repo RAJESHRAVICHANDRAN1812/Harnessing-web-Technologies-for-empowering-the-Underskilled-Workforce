@@ -1,0 +1,70 @@
+/* JobSearch.module.css */
+
+.jobSearchContainer {
+  padding: 50px 20px;
+}
+
+.searchResultsTitle {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.resultsCount {
+  margin-bottom: 10px;
+}
+
+.noResultsMessage {
+  color: red;
+  font-weight: bold;
+}
+
+.searchResults {
+  display: flex;
+  flex-wrap: wrap; /* Allow flex items to wrap to the next line */
+  gap: 20px; /* Adjust the gap between job cards */
+  justify-content: center; /* Center the job cards horizontally */
+}
+
+.card {
+  background: #fff;
+  text-decoration: none;
+  width: 320px;
+  height: 220px;
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.17);
+  transition: all 0.3s;
+}
+
+.card:hover {
+  box-shadow: 2px 10px 10px -1px rgba(0, 0, 0, 0.17);
+}
+
+.jobTitle {
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+.jobCategory {
+  font-size: 1.3rem;
+  color: gray;
+}
+
+.jobCountry {
+  font-size: 1rem;
+  color: gray;
+}
+
+.jobDetailsLink {
+  text-decoration: none;
+  padding: 7px;
+  font-size: 20px;
+  color: #002349;
+  background: rgb(233, 249, 255);
+  width: 100%;
+  display: block;
+  text-align: center;
+}

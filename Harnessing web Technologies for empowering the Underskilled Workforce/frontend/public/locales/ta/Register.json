@@ -1,0 +1,17 @@
+{
+    "Create a new account":"புதிய கணக்கை துவங்க",
+    "Register As": "யாராக பதிவு செய்ய",
+    "Select Role": "பாத்திரத்தைத் தேர்ந்தெடுக்கவும்",
+    "Employer":"வேலை வழங்குபவர்",
+    "Job Seeker":"வேலை தேடுபவர்",
+    "Name": "பெயர்",
+    "eg.SivaArulSelvan, Chandru, Rajesh, Gowdham": "எ.கா. சிவஅருள்செல்வன், சந்துரு, ராஜேஷ், கௌதம்",
+    "Email Address":"மின்னஞ்சல் முகவரி",
+    "rajesh@gmail.com":"உங்கள் மின்னஞ்சல் முகவரி(எ.கா: rajesh@gmail.com)",
+    "Phone Number": "தொலைபேசி எண்",
+    "eg. 12345678": "எ.கா. 12345678",
+    "Password":"கடவுச்சொல்",
+    "Your Password":"தங்களது கடவுச்சொல்",
+    "Register":"பதிவு செய்ய",
+    "Login Now":"இப்போது உள்நுழைய"
+}

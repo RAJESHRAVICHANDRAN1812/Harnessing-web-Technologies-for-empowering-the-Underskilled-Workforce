@@ -1,0 +1,17 @@
+{
+    "POST NEW JOB":"POST NEW JOB",
+    "Job Title (eg. Driver, Sales Person)":"Job Title (eg. Driver, Sales Person)",
+    "Category (eg. Manufacturing, Construction)":"Category (eg. Manufacturing, Construction)",
+    "State":"State",
+    "City":"City",
+    "Location (exact location its located)":"Location (exact location its located)",
+    "Select Salary Type":"Select Salary Type",
+    "Fixed Salary":"Fixed Salary",
+    "Ranged Salary":"Ranged Salary",
+    "Please provide Salary Type *":"Please provide Salary Type *",
+    "Enter Fixed Salary":"Enter Fixed Salary",
+    "Salary From":"Salary From",
+    "Salary To":"Salary To",
+    "Job Description":"Job Description",
+    "Post Job":"Post Job"
+}
